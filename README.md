@@ -2,6 +2,7 @@
 Projeto desenvolvido na disciplina de programação orientada a objetos na UFPR
 
 Prof. Henri Eberspacher na disciplina de TE253 - Programação Orientada a Objetos
+
 Equipe Alunos:
 Alexandre Gabriel Mohr
 Luis Guilherme Dias de Souza
